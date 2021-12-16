@@ -1,5 +1,5 @@
 # VRDL HW3 Instance Segmentation
-This is the code for VRDL HW2. I used yolov4 as the architecture to do the homework. I trained my model with darknet first, then used the pytorch version of yolov4 to inference the test dataset. here are my reference:
+This is the code for VRDL HW3. I used u-net as the architecture to do the homework. Here is my reference:
 - [U-Net](https://github.com/bvezilic/Nuclei-segmentation)
 
 ## dependencies
